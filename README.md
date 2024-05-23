@@ -1,4 +1,4 @@
 # My-website-
 This is my first git repository.
 <br>
-Author - Deepak Pandey
+Author - Deepak Pandey (krishna)
